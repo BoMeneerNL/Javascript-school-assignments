@@ -16,6 +16,10 @@ function login() {
 
 }
 
+function logout() {
+    window.location.reload();
+}
+
 //Welcome Screen
 function loginshow() {
     let username = document.getElementById("username").value;

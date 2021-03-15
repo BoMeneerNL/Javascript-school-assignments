@@ -21,7 +21,7 @@ function logger(jeff, action) {
         timestamp = " ( " + h + ":" + m + ":" + s + " @ " + d + "-" + mo + "-" + y + " )"
         document.getElementById(logc).style.display = "initial"
         document.getElementById(logc).innerHTML = logcount + ". " + action + timestamp
-        
+
     }
 
 }
