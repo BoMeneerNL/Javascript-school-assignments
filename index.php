@@ -27,7 +27,7 @@
             style="display: none;">email</button>
         <br /><button id="btn2.class1" style="display: none;"></button>
         <br /><button id="btn3.class1" style="display: none;"
-            onclick="location.href = 'http://jeff.bopedia.org/mc.disp1.mp4';">Something ;)</button>
+            onclick="location.href = 'OOPS THIS ADDRESS HAS BEEN COMPRIMISED :(';">Something ;)</button>
         <img id="email.empty" src="content/img/emptyemail.png" width="150px"
             alt="F Something went wrong, image not loaded" style="display: none;">
     </div>
